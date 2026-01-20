@@ -1,0 +1,4 @@
+# requirements.txt for Streamlit frontend demo
+streamlit==1.45.0
+streamlit-webrtc
+Pillow
